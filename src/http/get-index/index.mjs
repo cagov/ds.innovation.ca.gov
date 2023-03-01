@@ -22,7 +22,7 @@ export async function handler(req) {
           API for design system site forms
         </h1>
         <p class="margin-bottom-8">
-          The endpoint at ds.innovation.ca.gov/partner expects posts from the designsystem.webstandards.a.gov homepage partner signup form
+          The endpoint at ds.innovation.ca.gov/partner expects posts from the <a href="https://designsystem.webstandards.ca.gov">designsystem.webstandards.ca.gov</a> homepage partner signup form
         </p>
         
         <p class="margin-bottom-8">
